@@ -1,0 +1,31 @@
+// Eclipse Java Syntax Coloring
+Abstract classes: #3EABE6
+Abstract method invocations: #8085FF (i)
+Annotation element reference: #F57900 (B)
+Annotations: #E450E7 (i)
+Auto(un)boxed expressions: #AB3000 (disabled) 
+Brackets: #FFFFFF (B)
+Classes: #52E3F6 (B)
+Deprecated members: #FF0000 (S)
+Enums: #CC81BA (B i)
+Fields: #FFFFFF
+Inherited fields: #BED6FF (disabled) 
+Inherited method invocations: #BED6FF (i)
+Interfaces: #52E3F6 (i)
+Keyword 'return': #FA5976
+Keywords excluding 'return': #FA5976
+Local variable declarations: #FFFFFF
+Local variables: #FFFFFF
+Method declarations: #A6EC20
+Methods: #6DF4B3
+Numbers: #C38CFF 
+Operators: #FFFFFF (B)
+Others: #FEB9B5 
+Parameter variables: #FB895B (i)
+Restricted identifiers: #D77228
+Static fields: #FFFFFF (i)
+Static final fields: #CFBFAD (B i)
+Static method invocations: #74C32B (B i)
+Strings: #ECE47E
+Type arguments: #CF6E20
+Type variables: #FFAE72 (B)
