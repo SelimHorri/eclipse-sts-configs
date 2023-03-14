@@ -1,0 +1,31 @@
+// Eclipse Java Syntax Coloring for mac
+Abstract classes: #80CCCA
+Abstract method invocations: #9477F3 (i)
+Annotation element reference: #F47548 (B)
+Annotations: #9C5BC7 (i)
+Auto(un)boxed expressions: #AB3000 (disabled) 
+Brackets: #F9FBF6 (B)
+Classes: #72F9FB (B)
+Deprecated members: #C21D33 (S)
+Enums: #CC81BA (B i)
+Fields: #E3E9DE
+Inherited fields: #BED6FF (disabled) 
+Inherited method invocations: #9AAFE9 (i)
+Interfaces: #80F2F6 (i)
+Keyword 'return': #F74D80
+Keywords excluding 'return': #F2527F
+Local variable declarations: #DBDED7
+Local variables: #DCDADA
+Method declarations: #BDF849
+Methods: #57E198
+Numbers: #B28FEB 
+Operators: #F9FFF5 (B)
+Others: #ECB7B5 
+Parameter variables: #E97A6A (i)
+Restricted identifiers: #B36B30
+Static fields: #CBCFC7 (i)
+Static final fields: #D7BFE7 (B i)
+Static method invocations: #93D632 (B i)
+Strings: #FADBA7
+Type arguments: #C27648
+Type variables: #BFA4A4 (B)
