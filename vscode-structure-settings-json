@@ -1,0 +1,33 @@
+{
+    "editor.fontFamily": "'Monaco','Cascadia Code', 'Monaco', 'Cascadia Code', 'Source code pro', 'Consolas', 'Droid Sans Mono', 'monospace', monospace, 'Droid Sans Fallback'",
+    "editor.formatOnPaste": true,
+    "editor.formatOnSave": false,
+    "window.openFilesInNewWindow": "on",
+    "window.openFoldersInNewWindow": "off",
+    "terminal.integrated.fontFamily": "'Monaco', 'Source code pro', 'Consolas'",
+    "workbench.iconTheme": "vscode-icons",
+    "editor.codeActionsOnSave": null,
+    "editor.trimAutoWhitespace": false,
+    "editor.fontSize": 14,
+    "extensions.ignoreRecommendations": false,
+    "vsicons.dontShowNewVersionMessage": true,
+    "workbench.colorTheme": "One Dark Pro Darker",
+    "angular.enable-experimental-ivy-prompt": false,
+    "[html]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter.notebook.ipynb"
+    },
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.linux": "/home/selim/.vs-kubernetes/tools/helm/linux-amd64/helm",
+        "vscode-kubernetes.kubectl-path.linux": "/home/selim/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.linux": "/home/selim/.vs-kubernetes/tools/minikube/linux-amd64/minikube"
+    },
+    "editor.tabSize": 2,
+    "redhat.telemetry.enabled": false,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "[scss]": {
+        "editor.defaultFormatter": "HookyQR.beautify"
+    }
+}
